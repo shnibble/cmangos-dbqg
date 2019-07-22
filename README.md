@@ -1,3 +1,2 @@
-A standalone webapp for building database queries for a cMangos vanilla private server.
-#cMangos Database Query Generator
+# cMangos Database Query Generator
 A standalone webapp for building database queries for a cMangos vanilla private server.
